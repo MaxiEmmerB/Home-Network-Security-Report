@@ -25,6 +25,3 @@ Moving forward, enhancing security through **Intrusion Detection Systems (IDS), 
 - **Deploy Splunk SIEM** to correlate logs and detect suspicious activities.  
 - **Harden VPN security** to protect remote access and encrypt sensitive traffic.  
 
----
-
-### If you find this useful, give it a star on GitHub! 
